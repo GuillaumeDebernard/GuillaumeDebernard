@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Guillaume",
+    "number": "+33676317542",
+    "state": 1,
+    "cities": ["paris"]
+  },
+  {
+    "name": "Maxime",
+    "number": "+33672758785",
+    "state": 0,
+    "cities": ["toulouse", "paris"]
+  },
+  {
+    "name": "Martin",
+    "number": "+33620931172",
+    "state": 0,
+    "cities": ["meudon"]
+  },
+  {
+    "name": "Eric",
+    "number": "+33629212623",
+    "state": 0,
+    "cities": ["paris"]
+  },
+  {
+    "name": "Philou",
+    "number": "+33686477846",
+    "state": 0,
+    "cities": ["lille", "pouillon"]
+  },
+  {
+    "name": "Maxence",
+    "number": "+33782485118",
+    "state": 0,
+    "cities": ["paris", "toulouse"]
+  }
+]
