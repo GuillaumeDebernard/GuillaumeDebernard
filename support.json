@@ -34,5 +34,11 @@
     "number": "+33782485118",
     "state": 1,
     "cities": ["paris"]
+  },
+  {
+    "name": "Fabienne",
+    "number": "+33666687147",
+    "state": 1,
+    "cities": ["guyancourt"]
   }
 ]
